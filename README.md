@@ -1,6 +1,6 @@
 # Reference-Architecture
 
-The repository for Windows as a Service Reference Architecture. All Windows as a Service Core documentation should be stored within this repository. Customer specific documentation should not be stored here.
+The repository for Windows as a Service Reference Architecture. All Core documentation should be stored within this repository. Customer specific documentation should not be stored here.
 
 ## Contributing
 
@@ -8,8 +8,9 @@ We encourage contributions and have provided a [Contributing Template](CONTRIBUT
 
 ## Links
 
-* [Contributing Template](CONTRIBUTING.md)
-* Link to the documentation
+
+* [DXC Architecture Standards and Principles](https://github.dxc.com/pages/ArchitectureOffice/Standards/)
+Link to the documentation
 * Link to data files
 
 ## Bugs and Roadmap
