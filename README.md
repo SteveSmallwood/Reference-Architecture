@@ -7,13 +7,13 @@ Customer specific documentation should not be stored here.
 ## Contributing
 
 Encourage contribution and add a link to the **CONTRIBUTING.md** file. We have
-provided a [Contributing Template](CONTRIBUTING.md) to help get you
+provided a [DXC Architecture Standard and Principles](CONTRIBUTING.md) to help get you
 started.
 
 
 ## Links
 
-* Link to the site (if applicable)
+* [](CONTRIBUTING.md
 * Link to the documentation
 * Link to data files
 
