@@ -7,7 +7,7 @@ Customer specific documentation should not be stored here.
 ## Contributing
 
 Encourage contribution and add a link to the **CONTRIBUTING.md** file. We have
-provided a [Contributing Template](template.CONTRIBUTING.md) to help get you
+provided a [Contributing Template](CONTRIBUTING.md) to help get you
 started.
 
 
